@@ -1,0 +1,18 @@
+[submodule "kv"]
+	path = kv
+	url = https://github.com/lczyk/kv
+[submodule "type_conversion_dict"]
+	path = type_conversion_dict
+	url = https://github.com/lczyk/type_conversion_dict
+[submodule "environ_get"]
+	path = environ_get
+	url = https://github.com/lczyk/environ_get
+[submodule "xpc"]
+	path = xpc
+	url = https://github.com/lczyk/xpc
+[submodule "unwrap_type"]
+	path = unwrap_type
+	url = https://github.com/lczyk/unwrap_type
+[submodule "geturl"]
+	path = geturl
+	url = https://github.com/lczyk/geturl

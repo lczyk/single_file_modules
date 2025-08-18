@@ -16,3 +16,6 @@
 [submodule "geturl"]
 	path = geturl
 	url = https://github.com/lczyk/geturl
+[submodule "compare_json"]
+	path = compare_json
+	url = https://github.com/lczyk/compare_json

@@ -2,6 +2,8 @@
 
 Central repository for single-file python modules with useful stuff i've had to do in varous projects. The idea is that, while you might not want to take up more pip dependencies, you still don't want to write all the code for some things from scratch, and want a somewhat version-controlled version of it.
 
+
+- [compare_json](https://github.com/lczyk/compare_json)
 - [environ_get](https://github.com/lczyk/environ_get)
 - [geturl](https://github.com/lczyk/geturl)
 - [kv](https://github.com/lczyk/kv)

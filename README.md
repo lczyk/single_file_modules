@@ -26,6 +26,18 @@ While not directly inspired by Sean Barretts [stb](https://github.com/nothings/s
 - The use of double underscore prefix (e.g. `__variable`) in non-python functions (aka. `__init__` or `__call__` are obviously ok) is heavily discouraged. While functions/variables can be marked as private with single underscore, python applies some additional name mangling to `__` names which makes them less accessible to the user. This goes against the spirit of SFMs.
 - Majority of the checks ought to be done in tests. We don't mind having fat tests. We do want to keep the SDFs themselves clean and small.
 
+## Tools
+
+While not part of the spec, here are the tools i try to use with all the SDFs. These may change as python tooling evolves.
+
+- black
+- ruff
+- uv
+- tox
+- mypy
+
+Each SDF is tested in github ci actions too 👍
+
 ## Install
 
 Just copy the single-module file to your project and import it.

@@ -12,7 +12,7 @@ Central repository for single-file python modules (SFM) with useful stuff i've h
 - [xpc](https://github.com/lczyk/xpc)
 
 
-While not directly inspired by Sean Barretts [stb](https://github.com/nothings/stb) libraries, now that i think about it there are a lot of similarities in approach / motivation.
+While not directly inspired by Sean Barretts [stb](https://github.com/nothings/stb) libraries, now that i think about it there are a lot of similarities in approach / motivation. 🤔
 
 ## Spec
 

@@ -5,6 +5,7 @@ Central repository for single-file python modules (SFM) with useful stuff i've h
 
 - [compare_json](https://github.com/lczyk/compare_json)
 - [environ_get](https://github.com/lczyk/environ_get)
+- [find_in_json](https://github.com/lczyk/find_in_json)
 - [geturl](https://github.com/lczyk/geturl)
 - [kv](https://github.com/lczyk/kv)
 - [type_conversion_dict](https://github.com/lczyk/type_conversion_dict)
